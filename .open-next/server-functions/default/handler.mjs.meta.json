@@ -3525,12 +3525,12 @@
       "format": "cjs"
     },
     ".open-next/server-functions/default/.next/server/app/_global-error/page_client-reference-manifest.js": {
-      "bytes": 5948,
+      "bytes": 5224,
       "imports": [],
       "format": "cjs"
     },
     ".open-next/server-functions/default/node_modules/next/dist/server/load-manifest.external.js": {
-      "bytes": 16952,
+      "bytes": 16592,
       "imports": [
         {
           "path": "path",
@@ -5148,7 +5148,7 @@
       "format": "cjs"
     },
     "node_modules/next/dist/server/load-manifest.external.js": {
-      "bytes": 16952,
+      "bytes": 16592,
       "imports": [
         {
           "path": "path",
@@ -7367,7 +7367,7 @@
       "format": "esm"
     },
     ".open-next/server-functions/default/index.mjs": {
-      "bytes": 82183,
+      "bytes": 81863,
       "imports": [
         {
           "path": "node:module",
@@ -8874,10 +8874,10 @@
           "bytesInOutput": 589
         },
         ".open-next/server-functions/default/.next/server/app/_global-error/page_client-reference-manifest.js": {
-          "bytesInOutput": 5713
+          "bytesInOutput": 4989
         },
         ".open-next/server-functions/default/node_modules/next/dist/server/load-manifest.external.js": {
-          "bytesInOutput": 12467
+          "bytesInOutput": 12152
         },
         "node_modules/next/dist/compiled/@vercel/og/index.edge.js": {
           "bytesInOutput": 534650
@@ -9111,7 +9111,7 @@
           "bytesInOutput": 554
         },
         "node_modules/next/dist/server/load-manifest.external.js": {
-          "bytesInOutput": 12433
+          "bytesInOutput": 12118
         },
         "node_modules/next/dist/server/runtime-reacts.external.js": {
           "bytesInOutput": 781
@@ -9438,10 +9438,10 @@
           "bytesInOutput": 4969
         },
         ".open-next/server-functions/default/index.mjs": {
-          "bytesInOutput": 57155
+          "bytesInOutput": 56840
         }
       },
-      "bytes": 4594034
+      "bytes": 4592365
     }
   }
 }
